@@ -98,10 +98,7 @@
     "supportedParameters": [
       { "resolution": "r1080p", "ratio": "ratio9x16" },
       { "resolution": "r1080p", "ratio": "ratio16x9" },
-      { "resolution": "r1080p", "ratio": "ratio1x1" },
-      { "resolution": "r4K", "ratio": "ratio9x16" },
-      { "resolution": "r4K", "ratio": "ratio16x9" },
-      { "resolution": "r4K", "ratio": "ratio1x1" }
+      { "resolution": "r1080p", "ratio": "ratio1x1" }
     ]
   },
   {
