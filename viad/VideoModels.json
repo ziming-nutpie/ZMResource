@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "provider_name": "gemini",
+    "model_name": "veo-3.0-generate-001",
+    "notes": "video model",
+    "unit_price": 12,
+    "supported_parameters": {
+      "resolution": ["720p", "1080p", "4K"],
+      "aspect_ratio": ["16:9", "9:16"],
+      "duration": [4, 6, 8],
+      "sample_count": [1, 2, 3, 4],
+      "seed": "uint32 (0-4294967295)",
+      "negative_prompt": true,
+      "audio": ["synchronized audio generation"],
+      "output_format": ["mp4"]
+    }
+  },
+  {
+    "id": 2,
+    "provider_name": "gemini",
+    "model_name": "veo-3.0-fast-generate-001",
+    "notes": "video model",
+    "unit_price": 4,
+    "supported_parameters": {
+      "resolution": ["720p", "1080p"],
+      "aspect_ratio": ["16:9", "9:16"],
+      "duration": [4, 6, 8],
+      "sample_count": [1, 2, 3, 4],
+      "seed": "uint32 (0-4294967295)",
+      "negative_prompt": true,
+      "audio": ["synchronized audio generation"],
+      "output_format": ["mp4"]
+    }
+  },
+  {
+    "id": 3,
+    "provider_name": "gemini",
+    "model_name": "veo-2.0-generate-001",
+    "notes": "video model",
+    "unit_price": 9,
+    "supported_parameters": {
+      "resolution": ["4K"],
+      "aspect_ratio": ["16:9", "9:16"],
+      "duration": [5, 6, 7, 8],
+      "sample_count": [1, 2, 3, 4],
+      "seed": "uint32 (0-4294967295)",
+      "audio": ["synchronized audio generation"],
+      "output_format": ["mp4"]
+    }
+  },
+  {
+    "id": 4,
+    "provider_name": "wavespeed",
+    "model_name": "ws-sora2",
+    "notes": "video model",
+    "unit_price": 3,
+    "supported_parameters": {
+      "resolution": ["720p", "1080p"],
+      "aspect_ratio": ["16:9", "9:16", "1:1"],
+      "duration": [5, 10, 15, 20],
+      "sample_count": [1, 2, 3, 4],
+      "seed": "uint32 (0-4294967295)",
+      "output_format": ["mp4"],
+      "frame_rate": [24, 30]
+    }
+  },
+  {
+    "id": 5,
+    "provider_name": "openai",
+    "model_name": "sora-2",
+    "notes": "video model",
+    "unit_price": 3,
+    "supported_parameters": {
+      "resolution": ["720p", "1080p", "4K"],
+      "aspect_ratio": ["16:9", "9:16", "1:1"],
+      "duration": [5, 10, 15, 20, 60],
+      "sample_count": [1, 2, 3, 4],
+      "seed": "uint32 (0-4294967295)",
+      "output_format": ["mp4"],
+      "frame_rate": [24, 30, 60],
+      "style": ["realistic", "cinematic", "animated"]
+    }
+  },
+  {
+    "id": 6,
+    "provider_name": "openai",
+    "model_name": "sora2-pro",
+    "notes": "video model",
+    "unit_price": 15,
+    "supported_parameters": {
+      "resolution": ["1080p", "4K", "8K"],
+      "aspect_ratio": ["16:9", "9:16", "1:1", "21:9"],
+      "duration": [5, 10, 15, 20, 60, 120],
+      "sample_count": [1, 2, 3, 4, 8],
+      "seed": "uint32 (0-4294967295)",
+      "output_format": ["mp4", "mov", "exr"],
+      "frame_rate": [24, 30, 60, 120],
+      "style": ["realistic", "cinematic", "animated", "photorealistic"],
+      "advanced_controls": true,
+      "batch_generation": true
+    }
+  },
+  {
+    "id": 7,
+    "provider_name": "kling",
+    "model_name": "kling-v1",
+    "notes": "video model",
+    "unit_price": 50,
+    "supported_parameters": {
+      "resolution": ["720p", "1080p"],
+      "aspect_ratio": ["16:9", "9:16"],
+      "duration": [5, 10],
+      "sample_count": [1, 2, 3, 4],
+      "seed": "uint32 (0-4294967295)",
+      "output_format": ["mp4"],
+      "mode": ["standard", "pro"]
+    }
+  },
+  {
+    "id": 8,
+    "provider_name": "kling",
+    "model_name": "kling-v1-6",
+    "notes": "video model",
+    "unit_price": 50,
+    "supported_parameters": {
+      "resolution": ["720p", "1080p"],
+      "aspect_ratio": ["16:9", "9:16"],
+      "duration": [5, 10],
+      "sample_count": [1, 2, 3, 4],
+      "seed": "uint32 (0-4294967295)",
+      "output_format": ["mp4"],
+      "mode": ["standard", "pro"],
+      "enhanced_quality": true
+    }
+  },
+  {
+    "id": 9,
+    "provider_name": "kling",
+    "model_name": "kling-v2-master",
+    "notes": "video model",
+    "unit_price": 50,
+    "supported_parameters": {
+      "resolution": ["1080p", "4K"],
+      "aspect_ratio": ["16:9", "9:16", "1:1"],
+      "duration": [5, 10],
+      "sample_count": [1, 2, 3, 4],
+      "seed": "uint32 (0-4294967295)",
+      "output_format": ["mp4"],
+      "mode": ["standard", "pro"],
+      "enhanced_physics": true
+    }
+  },
+  {
+    "id": 10,
+    "provider_name": "kling",
+    "model_name": "kling-v2-1-master",
+    "notes": "video model",
+    "unit_price": 50,
+    "supported_parameters": {
+      "resolution": ["1080p", "4K"],
+      "aspect_ratio": ["16:9", "9:16", "1:1"],
+      "duration": [5, 10],
+      "sample_count": [1, 2, 3, 4],
+      "seed": "uint32 (0-4294967295)",
+      "output_format": ["mp4"],
+      "mode": ["standard", "pro"],
+      "enhanced_physics": true,
+      "improved_consistency": true
+    }
+  },
+  {
+    "id": 11,
+    "provider_name": "kling",
+    "model_name": "kling-v2-5-turbo",
+    "notes": "video model",
+    "unit_price": 50,
+    "supported_parameters": {
+      "resolution": ["1080p", "4K"],
+      "aspect_ratio": ["16:9", "9:16", "1:1"],
+      "duration": [5, 10],
+      "sample_count": [1, 2, 3, 4],
+      "seed": "uint32 (0-4294967295)",
+      "output_format": ["mp4", "exr"],
+      "mode": ["standard", "pro"],
+      "enhanced_physics": true,
+      "cost_reduction": "30%",
+      "hdr_support": true,
+      "native_16bit": true,
+      "causal_relationships": true,
+      "time_series_processing": true
+    }
+  }
+]
