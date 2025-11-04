@@ -1,0 +1,58 @@
+{
+  "demo_videos": [
+    {
+      "model": "sora2",
+      "url": "assets/videos/sora2/1.mp4",
+      "prompt": "An outdoor home security camera captures a 300-pound pizza delivery man walking up a wooden staircase to the front porch to deliver a pizza. As he knocks on the door, the wooden platform suddenly collapses under his weight, and he falls into the debris below. From the rubble, he calls out to the homeowner, \"Here's your pizza!\"",
+      "attributes": ["720p"]
+    },
+    {
+      "model": "veo3Quality",
+      "url": "assets/videos/veo3_quality/1.mp4",
+      "prompt": "At noon, two astronauts in full space suits stand quietly amidst a vast field of towering sunflowers under a clear blue sky, with a huge exoplanet faintly visible in the upper left of the frame, its outline very dim and only a subtle white glow discernible; the camera is positioned slightly above the astronauts' height at about a 20-degree downward angle, slowly and smoothly dollying forward along a track while maintaining a wide framing that captures both the astronauts and the expansive sunflower field; cinematic, photorealistic, highly detailed, with vivid natural colors contrasting against the surreal cosmic backdrop; the composition is a steady wide shot emphasizing the spatial relationship between the astronauts, sunflowers, and the distant faint exoplanet; ambiance features bright daylight with warm sunlight illuminating the flowers, a deep blue sky, and soft atmospheric haze; Negative_prompt: text, watermark, blurry, jpeg artifacts, cartoon, anime, low detail.",
+      "attributes": ["1080p"]
+    },
+    {
+      "model": "veo3Quality",
+      "url": "assets/videos/veo3_quality/2.mp4",
+      "prompt": "A lone cybernetic detective with a glowing blue prosthetic arm walks briskly through a rain-soaked neon alley in a sprawling futuristic megacity at night, steam rising from sewer grates and flickering holographic billboards reflecting off puddles while a small surveillance drone hovers overhead scanning the crowd as he clutches a data chip and peers from beneath a wide-brimmed hat; cinematic, photorealistic, high-detail cyberpunk aesthetic inspired by Blade Runner and Ghost in the Shell; camera motion: smooth tracking shot moving alongside him that transitions into a slow dolly-in; composition: medium low-angle framing emphasizing towering skyscrapers, neon kanji signs, rain-streaked glass facades and crowded street-level signage; ambiance: eerie green and magenta neon glow with cool blue tones dominating, vivid technicolor accents, subtle mist and occasional lens flare from passing hover-cars; Negative_prompt: text, watermark, blurry, jpeg artifacts, cartoon, anime, poorly drawn hands, extra fingers, deformed anatomy.",
+      "attributes": ["1080p"]
+    },
+    {
+      "model": "veo3Quality",
+      "url": "assets/videos/veo3_quality/3.mp4",
+      "prompt": "A dreamy pastel pink world filled with floating heart-shaped balloons, fluffy cotton candy clouds, and sparkly fairy dust drifting through the air. A cozy café with white and gold accents sits at the center, surrounded by blooming cherry blossoms glowing softly under a warm sunset sky. A girl with flowing hair and a pastel dress spins happily, her dress twirling as glitter sparkles around her. The scene feels soft, magical, and irresistibly cute, with everything glowing in shades of pink and gold.",
+      "attributes": ["1080p"]
+    },
+    {
+      "model": "veo3Fast",
+      "url": "assets/videos/veo3_fast/1.mp4",
+      "prompt": "Late at night, the female protagonist returns home from work and enters a dimly lit apartment hallway; the camera is fixed at a slightly elevated angle above her height, slowly dollying forward to capture every step in detail — the walls are cracked and worn, the weak overhead lights flicker intermittently, and dust and scattered papers shift slightly on the floor; in the depth of the hallway, a terrifying creature becomes visible, its shape blurred, shadowy, and ominously staring at her; lighting is dark with a cold color palette and strong chiaroscuro, enhancing tension; sound has natural delay and spatial realism: the protagonist's footsteps echo along the hallway, distant low breaths are heard, with occasional subtle unexplained noises; cinematic, photorealistic, ultra-high detail, fully indistinguishable from real footage; composition is mainly medium shot, emphasizing hallway depth and the horror atmosphere. Negative_prompt: text, watermark, blurry, jpeg artifacts, cartoon, anime, low detail, exaggerated movements, artificial horror expressions.",
+      "attributes": ["1080p"]
+    },
+    {
+      "model": "veo3Fast",
+      "url": "assets/videos/veo3_fast/2.mp4",
+      "prompt": "A pair of delicate, steady hands slices through a glowing volcanic lava sphere made of semi-translucent, hardened glass-like material while the camera remains fixed in place, capturing crisp ASMR-worthy sounds as the blade glides in and the sphere cracks open, releasing a slow, mesmerizing flow of molten lava that streams onto a smooth marble table, hissing softly as it spreads; cinematic, hyper-realistic macro shot with extreme close-up on the cutting motion and flowing lava, inspired by high-end product videography and slow-motion science footage; camera motion: static shot with no movement to emphasize the satisfying visual details; composition: extreme close-up framing focused entirely on the sphere and the molten flow; ambiance: warm golden-orange glow radiating from the molten core, soft diffused side lighting to enhance textures, subtle backlight creating lens flare, cool blue shadows in the background for strong contrast; Negative_prompt: text, watermark, blurry, jpeg artifacts, cartoon, anime, unrealistic physics, extra fingers, poorly rendered hands, deformed objects.",
+      "attributes": ["1080p"]
+    },
+    {
+      "model": "veo3Fast",
+      "url": "assets/videos/veo3_fast/3.mp4",
+      "prompt": "Captured by a fixed surveillance camera installed in the stairwell on the second floor of a house. The camera is angled downward at 45 degrees, with a medium shot composition. On the right side of the frame, there's a staircase without handrails or guardrails, extending from the first floor to the second floor. On the left side is a closed room door. In front of the door, a dog is curled up on the floor, sleeping deeply and completely unguarded. At this moment, in the lower-right corner of the frame, a leopard has silently crept up the stairs and is now just a few steps away from the second floor. It moves close to the ground, body fully crouched, advancing slowly and cautiously. The leopard is clearly in hunting mode, eyes locked onto the sleeping, unaware dog. Its belly stays pressed to the steps, paws inching forward silently—its entire body slinking like a shadow up the stairs. The atmosphere instantly becomes tense. After a few seconds of stealth, in the final three seconds of the video, the leopard suddenly bursts into a sprint, lunging straight at the dog. At that very moment, the dog's eyes snap open. In a twist, the dog shows no fear. Both the dog and the leopard rise together and calmly walk toward the camera. As they reach the front of the frame, they stop, turn to face the lens—and suddenly both the dog and leopard raise their middle fingers toward the camera. The video is presented in infrared night vision mode, mimicking a realistic nighttime indoor surveillance recording. The entire sequence is styled as CCTV footage—static frame, black-and-white infrared visuals. Ambient noises and occasional metallic echoes from the structure further enhance the eerie contrast between realism and absurdity.",
+      "attributes": ["1080p"]
+    },
+    {
+      "model": "veo2",
+      "url": "assets/videos/veo2/1.mp4",
+      "prompt": "A colorful pastel world with floating hearts, soft clouds, and sparkling stars. My Melody skips happily across a candy-colored meadow filled with giant flowers, her pink hood bouncing with each step. Suddenly, Kuromi pops out from behind a flower with a playful grin, holding a sparkly wand that releases glowing star-shaped confetti. The two characters laugh and spin together, leaving a trail of glitter and rainbows in the air. The camera circles around them, capturing their joy in a dreamy, kawaii-style scene filled with sparkles and soft light.",
+      "attributes": ["1080p", "No Sound"]
+    },
+    {
+      "model": "klingV2_1",
+      "url": "assets/videos/kling2.1/1.mp4",
+      "prompt": "A cyberpunk girl walking through neon-lit alleyways, rain falling, close-up of her eyes, camera pans to her silhouette, smoke in the background, futuristic music vibe",
+      "attributes": ["1080p"]
+    }
+  ]
+}
