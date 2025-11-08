@@ -55,7 +55,7 @@
     ]
   },
   {
-    "id": 7,
+    "id": 10,
     "label": "Kling V2.1",
     "parameter": "kling-v2-1-master",
     "priority": 18,
@@ -105,7 +105,7 @@
     ]
   },
   {
-    "id": 12,
+    "id": 7,
     "label": "Kling V1",
     "parameter": "kling-v1",
     "priority": 21,
