@@ -28,8 +28,7 @@
     "priority": 4,
     "supportedParameters": [
       { "resolution": "r720p", "ratio": "ratio9x16" },
-      { "resolution": "r720p", "ratio": "ratio16x9" },
-      { "resolution": "r1080p", "ratio": "ratio16x9" }
+      { "resolution": "r720p", "ratio": "ratio16x9" }
     ]
   },
   {
