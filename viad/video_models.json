@@ -54,7 +54,7 @@
     ]
   },
   {
-    "id": 10,
+    "id": 15,
     "label": "Kling V2.1",
     "parameter": "kling-v2-1-master",
     "priority": 18,
@@ -66,7 +66,7 @@
     ]
   },
   {
-    "id": 8,
+    "id": 17,
     "label": "Kling V1.6",
     "parameter": "kling-v1-6",
     "priority": 20,
@@ -78,7 +78,7 @@
     ]
   },
   {
-    "id": 9,
+    "id": 14,
     "label": "Kling V2 Master",
     "parameter": "kling-v2-master",
     "priority": 19,
@@ -90,7 +90,7 @@
     ]
   },
   {
-    "id": 11,
+    "id": 16,
     "label": "Kling V2.5 Turbo",
     "parameter": "kling-v2-5-turbo",
     "priority": 17,
@@ -101,18 +101,6 @@
       { "resolution": "r4K", "ratio": "ratio9x16" },
       { "resolution": "r4K", "ratio": "ratio16x9" },
       { "resolution": "r4K", "ratio": "ratio1x1" }
-    ]
-  },
-  {
-    "id": 7,
-    "label": "Kling V1",
-    "parameter": "kling-v1",
-    "priority": 21,
-    "supportedParameters": [
-      { "resolution": "r720p", "ratio": "ratio9x16" },
-      { "resolution": "r720p", "ratio": "ratio16x9" },
-      { "resolution": "r1080p", "ratio": "ratio9x16" },
-      { "resolution": "r1080p", "ratio": "ratio16x9" }
     ]
   }
 ]
