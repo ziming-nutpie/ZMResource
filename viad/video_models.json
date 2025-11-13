@@ -102,5 +102,29 @@
       { "resolution": "r4K", "ratio": "ratio16x9" },
       { "resolution": "r4K", "ratio": "ratio1x1" }
     ]
-  }
+  },
+  {
+    "id": 18,
+    "label": "Wan 2.5",
+    "parameter": "wan-2.5",
+    "priority": 22,
+    "supportedParameters": [
+       {
+          "resolution":"r720p",
+          "ratio":"ratio9x16"
+       },
+       {
+          "resolution":"r720p",
+          "ratio":"ratio16x9"
+       },
+       {
+          "resolution":"r1080p",
+          "ratio":"ratio9x16"
+       },
+       {
+          "resolution":"r1080p",
+          "ratio":"ratio16x9"
+       }
+    ]
+ }
 ]
