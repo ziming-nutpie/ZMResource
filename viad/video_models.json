@@ -107,7 +107,7 @@
     "id": 18,
     "label": "Wan 2.5",
     "parameter": "wan-2.5",
-    "priority": 22,
+    "priority": -1,
     "supportedParameters": [
       { "resolution": "r720p", "ratio": "ratio9x16" },
       { "resolution": "r720p", "ratio": "ratio16x9" },
