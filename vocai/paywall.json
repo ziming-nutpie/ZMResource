@@ -1,0 +1,652 @@
+{
+    "bannerSubtitle": {
+        "en": "Enjoy Unlimited AI Study Access",
+        "zh": "享受无限制AI学习和更多会员权益",
+        "ja": "無制限のAI学習アクセスをお楽しみください",
+        "zh-Hant": "享受無限制AI學習及更多會員權益",
+        "fr": "Profitez d'un accès illimité à l'apprentissage par l'IA",
+        "hi": "असीमित AI अध्ययन एक्सेस का आनंद लें और अन्य प्रीमियम फ़ायदे पाएं",
+        "es": "Disfruta de acceso ilimitado al estudio con IA y más beneficios premium",
+        "pt": "Desfruta de acesso ilimitado ao estudo com IA e mais benefícios exclusivos",
+        "ar": "استمتع بوصول غير محدود إلى التعلم بالذكاء الاصطناعي ومزايا العضوية الأخرى",
+        "ru": "Наслаждайтесь неограниченным доступом к обучению с ИИ и другими привилегиями подписки",
+        "ko": "무제한 AI 학습 접근과 다양한 프리미엄 혜택을 누려보세요"
+    },
+    "bannerTitle": {
+        "en": "VocabAI Pro✨",
+        "zh": "坚果单词Pro✨",
+        "ja": "VocabAI Pro✨",
+        "zh-Hant": "VocabAI Pro✨",
+        "fr": "VocabAI Pro✨",
+        "hi": "VocabAI प्रो✨",
+        "es": "VocabAI Pro✨",
+        "pt": "VocabAI Pro✨",
+        "ar": "VocabAI برو✨",
+        "ru": "VocabAI Pro✨",
+        "ko": "VocabAI Pro✨"
+    },
+    "features": [
+        {
+            "en": {
+                "free": "✅",
+                "paid": "✅",
+                "title": "AI Study Plans"
+            },
+            "zh": {
+                "free": "✅",
+                "paid": "✅",
+                "title": "智能单词推送"
+            },
+            "ja": {
+                "free": "✅",
+                "paid": "✅",
+                "title": "AI学習プラン"
+            },
+            "zh-Hant": {
+                "free": "✅",
+                "paid": "✅",
+                "title": "智慧單詞推播"
+            },
+            "fr": {
+                "free": "✅",
+                "paid": "✅",
+                "title": "Plans d'étude IA"
+            },
+            "hi": {
+                "free": "✅",
+                "paid": "✅",
+                "title": "AI अध्ययन योजनाएँ"
+            },
+            "es": {
+                "free": "✅",
+                "paid": "✅",
+                "title": "Planes de estudio IA"
+            },
+            "pt": {
+                "free": "✅",
+                "paid": "✅",
+                "title": "Planos de estudo com IA"
+            },
+            "ar": {
+                "free": "✅",
+                "paid": "✅",
+                "title": "خطط الدراسة بالذكاء الاصطناعي"
+            },
+            "ru": {
+                "free": "✅",
+                "paid": "✅",
+                "title": "Планы обучения с ИИ"
+            },
+            "ko": {
+                "free": "✅",
+                "paid": "✅",
+                "title": "AI 학습 계획"
+            }
+        },
+        {
+            "en": {
+                "free": "✅",
+                "paid": "✅",
+                "title": "AI Categorisation"
+            },
+            "zh": {
+                "free": "✅",
+                "paid": "✅",
+                "title": "AI单词分组学习"
+            },
+            "ja": {
+                "free": "✅",
+                "paid": "✅",
+                "title": "AI単語分類学習"
+            },
+            "zh-Hant": {
+                "free": "✅",
+                "paid": "✅",
+                "title": "AI單詞分組學習"
+            },
+            "fr": {
+                "free": "✅",
+                "paid": "✅",
+                "title": "Catégorisation IA"
+            },
+            "hi": {
+                "free": "✅",
+                "paid": "✅",
+                "title": "AI वर्गीकरण"
+            },
+            "es": {
+                "free": "✅",
+                "paid": "✅",
+                "title": "Categorización con IA"
+            },
+            "pt": {
+                "free": "✅",
+                "paid": "✅",
+                "title": "Categorização com IA"
+            },
+            "ar": {
+                "free": "✅",
+                "paid": "✅",
+                "title": "تصنيف الكلمات باستخدام الذكاء الاصطناعي"
+            },
+            "ru": {
+                "free": "✅",
+                "paid": "✅",
+                "title": "Категоризация слов с ИИ"
+            },
+            "ko": {
+                "free": "✅",
+                "paid": "✅",
+                "title": "AI 단어 분류"
+            }
+        },
+        {
+            "en": {
+                "free": "Limited",
+                "paid": "✅",
+                "title": "AI Chat Practice"
+            },
+            "zh": {
+                "free": "有限使用",
+                "paid": "✅",
+                "title": "AI场景对话练习"
+            },
+            "ja": {
+                "free": "制限あり",
+                "paid": "✅",
+                "title": "AI会話練習"
+            },
+            "zh-Hant": {
+                "free": "有限使用",
+                "paid": "✅",
+                "title": "AI情境對話練習"
+            },
+            "fr": {
+                "free": "Limité",
+                "paid": "✅",
+                "title": "Pratique de conversation IA"
+            },
+            "hi": {
+                "free": "सीमित",
+                "paid": "✅",
+                "title": "AI चैट अभ्यास"
+            },
+            "es": {
+                "free": "Limitado",
+                "paid": "✅",
+                "title": "Práctica de conversación IA"
+            },
+            "pt": {
+                "free": "Limitado",
+                "paid": "✅",
+                "title": "Prática de conversação com IA"
+            },
+            "ar": {
+                "free": "محدود",
+                "paid": "✅",
+                "title": "تمارين المحادثة بالذكاء الاصطناعي"
+            },
+            "ru": {
+                "free": "Ограничено",
+                "paid": "✅",
+                "title": "Практика разговоров с ИИ"
+            },
+            "ko": {
+                "free": "제한됨",
+                "paid": "✅",
+                "title": "AI 대화 연습"
+            }
+        },
+        {
+            "en": {
+                "free": "Limited",
+                "paid": "✅",
+                "title": "Deep Understanding"
+            },
+            "zh": {
+                "free": "有限使用",
+                "paid": "✅",
+                "title": "深度理解"
+            },
+            "ja": {
+                "free": "制限あり",
+                "paid": "✅",
+                "title": "深い理解"
+            },
+            "zh-Hant": {
+                "free": "有限使用",
+                "paid": "✅",
+                "title": "深度理解"
+            },
+            "fr": {
+                "free": "Limité",
+                "paid": "✅",
+                "title": "Compréhension Approfondie"
+            },
+            "hi": {
+                "free": "सीमित",
+                "paid": "✅",
+                "title": "गहरी समझ"
+            },
+            "es": {
+                "free": "Limitado",
+                "paid": "✅",
+                "title": "Comprensión Profunda"
+            },
+            "pt": {
+                "free": "Limitado",
+                "paid": "✅",
+                "title": "Compreensão Profunda"
+            },
+            "ar": {
+                "free": "محدود",
+                "paid": "✅",
+                "title": "فهم عميق"
+            },
+            "ru": {
+                "free": "Ограничено",
+                "paid": "✅",
+                "title": "Глубокое понимание"
+            },
+            "ko": {
+                "free": "제한됨",
+                "paid": "✅",
+                "title": "심층 이해"
+            }
+        },
+        {
+            "en": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "AI Chat Explanation"
+            },
+            "zh": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "AI对话解析"
+            },
+            "ja": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "AIチャット解説"
+            },
+            "zh-Hant": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "AI對話解析"
+            },
+            "fr": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "Explication de chat IA"
+            },
+            "hi": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "AI चैट व्याख्या"
+            },
+            "es": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "Explicación de chat con IA"
+            },
+            "pt": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "Explicação de chat com IA"
+            },
+            "ar": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "شرح الدردشة بالذكاء الاصطناعي"
+            },
+            "ru": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "Объяснение чата с ИИ"
+            },
+            "ko": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "AI 채팅 설명"
+            }
+        },
+        {
+            "en": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "AI Quiz"
+            },
+            "zh": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "AI练习题"
+            },
+            "ja": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "AIクイズ"
+            },
+            "zh-Hant": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "AI練習題"
+            },
+            "fr": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "Quiz IA"
+            },
+            "hi": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "AI क्विज़"
+            },
+            "es": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "Cuestionarios con IA"
+            },
+            "pt": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "Questionários com IA"
+            },
+            "ar": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "اختبارات الذكاء الاصطناعي"
+            },
+            "ru": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "Тесты с ИИ"
+            },
+            "ko": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "AI 퀴즈"
+            }
+        },
+        {
+            "en": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "AI Contextual Search"
+            },
+            "zh": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "智能语境查词"
+            },
+            "ja": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "AI文脈検索"
+            },
+            "zh-Hant": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "智慧語境查詞"
+            },
+            "fr": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "Recherche contextuelle IA"
+            },
+            "hi": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "AI संदर्भ खोज"
+            },
+            "es": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "Búsqueda contextual con IA"
+            },
+            "pt": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "Pesquisa contextual com IA"
+            },
+            "ar": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "البحث السياقي بالذكاء الاصطناعي"
+            },
+            "ru": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "Контекстный поиск с ИИ"
+            },
+            "ko": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "AI 문맥 검색"
+            }
+        },
+        {
+            "en": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "Future AI Features"
+            },
+            "zh": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "未来所有AI功能"
+            },
+            "ja": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "将来のAI機能"
+            },
+            "zh-Hant": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "未來所有AI功能"
+            },
+            "fr": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "Fonctionnalités IA futures"
+            },
+            "hi": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "भविष्य की AI सुविधाएँ"
+            },
+            "es": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "Funciones IA futuras"
+            },
+            "pt": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "Futuras funcionalidades com IA"
+            },
+            "ar": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "الميزات المستقبلية للذكاء الاصطناعي"
+            },
+            "ru": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "Будущие функции ИИ"
+            },
+            "ko": {
+                "free": "❌",
+                "paid": "✅",
+                "title": "향후 AI 기능"
+            }
+        }
+    ],
+    "packages": {
+        "$rc_annual": {
+            "en": {
+                "description": "Unlimited AI content usage! Cancel anytime.",
+                "name": "Vocab AI Pro - Annually"
+            },
+            "zh": {
+                "description": "无限制使用AI学习功能！随时取消。",
+                "name": "坚果单词 Pro"
+            },
+            "ja": {
+                "description": "AI機能が無制限で使い放題！いつでもキャンセル可能。",
+                "name": "Vocab AI Pro（年間）"
+            },
+            "zh-Hant": {
+                "description": "無限制使用AI學習功能！可隨時取消。",
+                "name": "堅果單詞 Pro（年費）"
+            },
+            "fr": {
+                "description": "Utilisation illimitée du contenu IA ! Annulez à tout moment.",
+                "name": "Vocab AI Pro - Annuel"
+            },
+            "hi": {
+                "name": "Vocab AI प्रो - वार्षिक",
+                "description": "AI सामग्री का असीमित उपयोग करें! कभी भी रद्द करें।"
+            },
+            "es": {
+                "name": "VocabAI Pro - Anual",
+                "description": "¡Uso ilimitado del contenido de IA! Cancela en cualquier momento."
+            },
+            "pt": {
+                "name": "VocabAI Pro - Anual",
+                "description": "Uso ilimitado do conteúdo com IA! Cancela quando quiser."
+            },
+            "ar": {
+                "name": "VocabAI برو - سنوي",
+                "description": "استخدم ميزات الذكاء الاصطناعي بلا حدود! يمكنك الإلغاء في أي وقت."
+            },
+            "ru": {
+                "name": "VocabAI Pro — Годовая подписка",
+                "description": "Неограниченное использование ИИ! Отмена в любой момент."
+            },
+            "ko": {
+                "name": "VocabAI Pro - 연간",
+                "description": "AI 콘텐츠를 무제한으로 사용하세요! 언제든지 해지할 수 있어요."
+            }
+        },
+        "$rc_monthly": {
+            "en": {
+                "description": "Unlimited AI content usage! Cancel anytime.",
+                "name": "Vocab AI Pro - Monthly"
+            },
+            "zh": {
+                "description": "无限制使用AI学习功能！随时取消",
+                "name": "坚果单词 Pro"
+            },
+            "ja": {
+                "description": "AI機能が無制限で使い放題！いつでもキャンセル可能。",
+                "name": "Vocab AI Pro（月間）"
+            },
+            "zh-Hant": {
+                "description": "無限制使用AI學習功能！可隨時取消。",
+                "name": "堅果單詞 Pro（月費）"
+            },
+            "fr": {
+                "description": "Utilisation illimitée du contenu IA ! Annulez à tout moment.",
+                "name": "Vocab AI Pro - Mensuel"
+            },
+            "hi": {
+                "name": "Vocab AI प्रो - मासिक",
+                "description": "AI सामग्री का असीमित उपयोग करें! कभी भी रद्द करें।"
+            },
+            "es": {
+                "name": "VocabAI Pro - Mensual",
+                "description": "¡Uso ilimitado del contenido de IA! Cancela en cualquier momento."
+            },
+            "pt": {
+                "name": "VocabAI Pro - Mensal",
+                "description": "Uso ilimitado do conteúdo com IA! Cancela quando quiser."
+            },
+            "ar": {
+                "name": "VocabAI برو - شهري",
+                "description": "استخدم ميزات الذكاء الاصطناعي بلا حدود! يمكنك الإلغاء في أي وقت."
+            },
+            "ru": {
+                "name": "VocabAI Pro — Месячная подписка",
+                "description": "Неограниченное использование ИИ! Отмена в любой момент."
+            },
+            "ko": {
+                "name": "VocabAI Pro - 월간",
+                "description": "AI 콘텐츠를 무제한으로 사용하세요! 언제든지 해지할 수 있어요."
+            }
+        },
+        "$rc_three_month": {
+            "en": {
+                "description": "Unlimited AI content usage! Cancel anytime.",
+                "name": "Vocab AI Pro - Quarterly"
+            },
+            "zh": {
+                "description": "无限制使用AI学习功能！随时取消。",
+                "name": "坚果单词 Pro"
+            },
+            "ja": {
+                "description": "AI機能が無制限で使い放題！いつでもキャンセル可能。",
+                "name": "Vocab AI Pro（3ヶ月）"
+            },
+            "zh-Hant": {
+                "description": "無限制使用AI學習功能！可隨時取消。",
+                "name": "堅果單詞 Pro（季費）"
+            },
+            "fr": {
+                "description": "Utilisation illimitée du contenu IA ! Annulez à tout moment.",
+                "name": "Vocab AI Pro - Trimestriel"
+            },
+            "hi": {
+                "name": "Vocab AI प्रो - त्रैमासिक",
+                "description": "AI सामग्री का असीमित उपयोग करें! कभी भी रद्द करें।"
+            },
+            "es": {
+                "name": "VocabAI Pro - Trimestral",
+                "description": "¡Uso ilimitado del contenido de IA! Cancela en cualquier momento."
+            },
+            "pt": {
+                "name": "VocabAI Pro - Trimestral",
+                "description": "Uso ilimitado do conteúdo com IA! Cancela quando quiser."
+            },
+            "ar": {
+                "name": "VocabAI برو - ربع سنوي",
+                "description": "استخدم ميزات الذكاء الاصطناعي بلا حدود! يمكنك الإلغاء في أي وقت."
+            },
+            "ru": {
+                "name": "VocabAI Pro — Квартальная подписка",
+                "description": "Неограниченное использование ИИ! Отмена в любой момент."
+            },
+            "ko": {
+                "name": "VocabAI Pro - 3개월",
+                "description": "AI 콘텐츠를 무제한으로 사용하세요! 언제든지 해지할 수 있어요."
+            }
+        }
+    },
+    "subtitle": {
+        "en": "Vocab AI Pro, get full access to all latest benefits by choosing a plan below.",
+        "zh": "学好英语，投资自己，让我们的AI为你助力！",
+        "ja": "Vocab AI Proで、すべての最新機能をフル活用しよう。以下からプランを選択してください。",
+        "zh-Hant": "學好英文，投資自己，讓我們的AI為你助力！",
+        "fr": "Vocab AI Pro : accédez à tous les avantages en choisissant un plan ci-dessous.",
+        "hi": "Vocab AI प्रो के साथ सभी नवीनतम फ़ायदे प्राप्त करें – नीचे से कोई एक प्लान चुनें।",
+        "es": "Con VocabAI Pro, accede a todos los beneficios más recientes eligiendo un plan a continuación.",
+        "pt": "Com o VocabAI Pro, tens acesso total a todas as funcionalidades — escolhe um plano abaixo.",
+        "ar": "مع VocabAI برو، احصل على جميع المزايا الجديدة — اختر خطة من الأسفل.",
+        "ru": "С VocabAI Pro вы получаете полный доступ ко всем новым функциям — выберите подходящий тариф ниже.",
+        "ko": "VocabAI Pro를 통해 모든 최신 기능을 자유롭게 이용해보세요. 아래에서 요금제를 선택하세요."
+    },
+    "title": {
+        "en": "Enjoy unlimited access",
+        "zh": "享受无限制AI学习功能",
+        "ja": "無制限アクセスを楽しもう",
+        "zh-Hant": "享受無限制AI學習功能",
+        "fr": "Profitez d’un accès illimité",
+        "hi": "असीमित एक्सेस का आनंद लें",
+        "es": "Disfruta de acceso ilimitado",
+        "pt": "Desfruta de acesso ilimitado",
+        "ar": "استمتع بوصول غير محدود",
+        "ru": "Наслаждайтесь неограниченным доступом",
+        "ko": "무제한 이용을 누려보세요"
+    }
+}
