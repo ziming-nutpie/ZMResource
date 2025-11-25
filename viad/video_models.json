@@ -14,7 +14,7 @@
     "id": 2,
     "label": "Veo3 Fast 🔥",
     "parameter": "veo-3.0-fast-generate-001",
-    "priority": 3,
+    "priority": 0,
     "supportedParameters": [
       { "resolution": "r720p", "ratio": "ratio9x16" },
       { "resolution": "r720p", "ratio": "ratio16x9" },
@@ -45,7 +45,7 @@
     "id": 6,
     "label": "Sora2 Pro",
     "parameter": "sora2-pro",
-    "priority": 0,
+    "priority": 3,
     "supportedParameters": [
       { "resolution": "r720p", "ratio": "ratio9x16" },
       { "resolution": "r720p", "ratio": "ratio16x9" },
