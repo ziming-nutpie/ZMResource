@@ -14,7 +14,7 @@
     "id": 2,
     "label": "Veo3 Fast 🔥",
     "parameter": "veo-3.0-fast-generate-001",
-    "priority": 0,
+    "priority": 3,
     "supportedParameters": [
       { "resolution": "r720p", "ratio": "ratio9x16" },
       { "resolution": "r720p", "ratio": "ratio16x9" },
@@ -35,7 +35,7 @@
     "id": 5,
     "label": "Sora2 🔥",
     "parameter": "sora-2",
-    "priority": 1,
+    "priority": 0,
     "supportedParameters": [
       { "resolution": "r720p", "ratio": "ratio9x16" },
       { "resolution": "r720p", "ratio": "ratio16x9" }
@@ -45,12 +45,74 @@
     "id": 6,
     "label": "Sora2 Pro",
     "parameter": "sora2-pro",
-    "priority": 3,
+    "priority": 1,
     "supportedParameters": [
       { "resolution": "r720p", "ratio": "ratio9x16" },
       { "resolution": "r720p", "ratio": "ratio16x9" },
       { "resolution": "r1080p", "ratio": "ratio9x16" },
       { "resolution": "r1080p", "ratio": "ratio16x9" }
     ]
-  }
+  },
+  {
+    "id": 15,
+    "label": "Kling V2.1",
+    "parameter": "kling-v2-1-master",
+    "priority": 18,
+    "supportedParameters": [
+      { "resolution": "r720p", "ratio": "ratio9x16" },
+      { "resolution": "r720p", "ratio": "ratio16x9" },
+      { "resolution": "r1080p", "ratio": "ratio9x16" },
+      { "resolution": "r1080p", "ratio": "ratio16x9" }
+    ]
+  },
+  {
+    "id": 17,
+    "label": "Kling V1.6",
+    "parameter": "kling-v1-6",
+    "priority": 20,
+    "supportedParameters": [
+      { "resolution": "r720p", "ratio": "ratio9x16" },
+      { "resolution": "r720p", "ratio": "ratio16x9" },
+      { "resolution": "r1080p", "ratio": "ratio9x16" },
+      { "resolution": "r1080p", "ratio": "ratio16x9" }
+    ]
+  },
+  {
+    "id": 14,
+    "label": "Kling V2 Master",
+    "parameter": "kling-v2-master",
+    "priority": 19,
+    "supportedParameters": [
+      { "resolution": "r720p", "ratio": "ratio9x16" },
+      { "resolution": "r720p", "ratio": "ratio16x9" },
+      { "resolution": "r1080p", "ratio": "ratio9x16" },
+      { "resolution": "r1080p", "ratio": "ratio16x9" }
+    ]
+  },
+  {
+    "id": 16,
+    "label": "Kling V2.5 Turbo",
+    "parameter": "kling-v2-5-turbo",
+    "priority": 17,
+    "supportedParameters": [
+      { "resolution": "r1080p", "ratio": "ratio9x16" },
+      { "resolution": "r1080p", "ratio": "ratio16x9" },
+      { "resolution": "r1080p", "ratio": "ratio1x1" },
+      { "resolution": "r4K", "ratio": "ratio9x16" },
+      { "resolution": "r4K", "ratio": "ratio16x9" },
+      { "resolution": "r4K", "ratio": "ratio1x1" }
+    ]
+  },
+  {
+    "id": 18,
+    "label": "Wan 2.5 🔞",
+    "parameter": "wan-2.5",
+    "priority": -1,
+    "supportedParameters": [
+      { "resolution": "r720p", "ratio": "ratio9x16" },
+      { "resolution": "r720p", "ratio": "ratio16x9" },
+      { "resolution": "r1080p", "ratio": "ratio9x16" },
+      { "resolution": "r1080p", "ratio": "ratio16x9" }
+    ]
+ }
 ]
