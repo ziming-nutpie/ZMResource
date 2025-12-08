@@ -30,7 +30,7 @@
             "en": {
                 "free": "✅",
                 "paid": "✅",
-                "title": "AI Study Plans"
+                "title": "Smart Word Recommendations"
             },
             "zh": {
                 "free": "✅",
@@ -40,54 +40,54 @@
             "ja": {
                 "free": "✅",
                 "paid": "✅",
-                "title": "AI学習プラン"
+                "title": "AIによる単語レコメンド"
             },
             "zh-Hant": {
                 "free": "✅",
                 "paid": "✅",
-                "title": "智慧單詞推播"
+                "title": "智慧單詞推送"
             },
             "fr": {
                 "free": "✅",
                 "paid": "✅",
-                "title": "Plans d'étude IA"
+                "title": "Recommandations intelligentes de mots"
             },
             "hi": {
                 "free": "✅",
                 "paid": "✅",
-                "title": "AI अध्ययन योजनाएँ"
+                "title": "स्मार्ट शब्द अनुशंसा"
             },
             "es": {
                 "free": "✅",
                 "paid": "✅",
-                "title": "Planes de estudio IA"
+                "title": "Recomendaciones inteligentes de vocabulario"
             },
             "pt": {
                 "free": "✅",
                 "paid": "✅",
-                "title": "Planos de estudo com IA"
+                "title": "Recomendações inteligentes de palavras"
             },
             "ar": {
                 "free": "✅",
                 "paid": "✅",
-                "title": "خطط الدراسة بالذكاء الاصطناعي"
+                "title": "اقتراحات ذكية للكلمات"
             },
             "ru": {
                 "free": "✅",
                 "paid": "✅",
-                "title": "Планы обучения с ИИ"
+                "title": "Умные рекомендации слов"
             },
             "ko": {
                 "free": "✅",
                 "paid": "✅",
-                "title": "AI 학습 계획"
+                "title": "스마트 단어 추천"
             }
         },
         {
             "en": {
                 "free": "✅",
                 "paid": "✅",
-                "title": "AI Categorisation"
+                "title": "AI Word Grouping Study"
             },
             "zh": {
                 "free": "✅",
@@ -97,7 +97,7 @@
             "ja": {
                 "free": "✅",
                 "paid": "✅",
-                "title": "AI単語分類学習"
+                "title": "AIによる単語グループ学習"
             },
             "zh-Hant": {
                 "free": "✅",
@@ -107,44 +107,44 @@
             "fr": {
                 "free": "✅",
                 "paid": "✅",
-                "title": "Catégorisation IA"
+                "title": "Apprentissage par groupes de mots avec IA"
             },
             "hi": {
                 "free": "✅",
                 "paid": "✅",
-                "title": "AI वर्गीकरण"
+                "title": "AI शब्द समूहित अध्ययन"
             },
             "es": {
                 "free": "✅",
                 "paid": "✅",
-                "title": "Categorización con IA"
+                "title": "Estudio de palabras por grupos con IA"
             },
             "pt": {
                 "free": "✅",
                 "paid": "✅",
-                "title": "Categorização com IA"
+                "title": "Estudo de palavras em grupos com IA"
             },
             "ar": {
                 "free": "✅",
                 "paid": "✅",
-                "title": "تصنيف الكلمات باستخدام الذكاء الاصطناعي"
+                "title": "تعلّم الكلمات ضمن مجموعات بالذكاء الاصطناعي"
             },
             "ru": {
                 "free": "✅",
                 "paid": "✅",
-                "title": "Категоризация слов с ИИ"
+                "title": "Групповое изучение слов с ИИ"
             },
             "ko": {
                 "free": "✅",
                 "paid": "✅",
-                "title": "AI 단어 분류"
+                "title": "AI 단어 그룹 학습"
             }
         },
         {
             "en": {
                 "free": "Limited",
                 "paid": "✅",
-                "title": "AI Chat Practice"
+                "title": "AI Scenario Conversation Practice"
             },
             "zh": {
                 "free": "有限使用",
@@ -154,7 +154,7 @@
             "ja": {
                 "free": "制限あり",
                 "paid": "✅",
-                "title": "AI会話練習"
+                "title": "AIシナリオ会話練習"
             },
             "zh-Hant": {
                 "free": "有限使用",
@@ -164,37 +164,37 @@
             "fr": {
                 "free": "Limité",
                 "paid": "✅",
-                "title": "Pratique de conversation IA"
+                "title": "Entraînement de dialogues scénarisés avec IA"
             },
             "hi": {
                 "free": "सीमित",
                 "paid": "✅",
-                "title": "AI चैट अभ्यास"
+                "title": "AI परिदृश्य संवाद अभ्यास"
             },
             "es": {
                 "free": "Limitado",
                 "paid": "✅",
-                "title": "Práctica de conversación IA"
+                "title": "Práctica de diálogos por escenarios con IA"
             },
             "pt": {
                 "free": "Limitado",
                 "paid": "✅",
-                "title": "Prática de conversação com IA"
+                "title": "Prática de diálogo em cenários com IA"
             },
             "ar": {
                 "free": "محدود",
                 "paid": "✅",
-                "title": "تمارين المحادثة بالذكاء الاصطناعي"
+                "title": "تمارين حوارية في سيناريوهات بالذكاء الاصطناعي"
             },
             "ru": {
                 "free": "Ограничено",
                 "paid": "✅",
-                "title": "Практика разговоров с ИИ"
+                "title": "Тренировка диалогов по сценариям с ИИ"
             },
             "ko": {
                 "free": "제한됨",
                 "paid": "✅",
-                "title": "AI 대화 연습"
+                "title": "AI 시나리오 대화 연습"
             }
         },
         {
@@ -221,7 +221,7 @@
             "fr": {
                 "free": "Limité",
                 "paid": "✅",
-                "title": "Compréhension Approfondie"
+                "title": "Compréhension approfondie"
             },
             "hi": {
                 "free": "सीमित",
@@ -231,12 +231,12 @@
             "es": {
                 "free": "Limitado",
                 "paid": "✅",
-                "title": "Comprensión Profunda"
+                "title": "Comprensión profunda"
             },
             "pt": {
                 "free": "Limitado",
                 "paid": "✅",
-                "title": "Compreensão Profunda"
+                "title": "Compreensão profunda"
             },
             "ar": {
                 "free": "محدود",
@@ -258,7 +258,7 @@
             "en": {
                 "free": "❌",
                 "paid": "✅",
-                "title": "AI Chat Explanation"
+                "title": "AI Chat Breakdown"
             },
             "zh": {
                 "free": "❌",
@@ -268,7 +268,7 @@
             "ja": {
                 "free": "❌",
                 "paid": "✅",
-                "title": "AIチャット解説"
+                "title": "AIチャットの解説"
             },
             "zh-Hant": {
                 "free": "❌",
@@ -278,44 +278,44 @@
             "fr": {
                 "free": "❌",
                 "paid": "✅",
-                "title": "Explication de chat IA"
+                "title": "Analyse de chat IA"
             },
             "hi": {
                 "free": "❌",
                 "paid": "✅",
-                "title": "AI चैट व्याख्या"
+                "title": "AI चैट विश्लेषण"
             },
             "es": {
                 "free": "❌",
                 "paid": "✅",
-                "title": "Explicación de chat con IA"
+                "title": "Análisis de chat con IA"
             },
             "pt": {
                 "free": "❌",
                 "paid": "✅",
-                "title": "Explicação de chat com IA"
+                "title": "Análise de chat com IA"
             },
             "ar": {
                 "free": "❌",
                 "paid": "✅",
-                "title": "شرح الدردشة بالذكاء الاصطناعي"
+                "title": "تحليل الدردشة بالذكاء الاصطناعي"
             },
             "ru": {
                 "free": "❌",
                 "paid": "✅",
-                "title": "Объяснение чата с ИИ"
+                "title": "Разбор чатов с ИИ"
             },
             "ko": {
                 "free": "❌",
                 "paid": "✅",
-                "title": "AI 채팅 설명"
+                "title": "AI 채팅 분석"
             }
         },
         {
             "en": {
                 "free": "❌",
                 "paid": "✅",
-                "title": "AI Quiz"
+                "title": "AI Practice Questions"
             },
             "zh": {
                 "free": "❌",
@@ -325,7 +325,7 @@
             "ja": {
                 "free": "❌",
                 "paid": "✅",
-                "title": "AIクイズ"
+                "title": "AI練習問題"
             },
             "zh-Hant": {
                 "free": "❌",
@@ -335,44 +335,44 @@
             "fr": {
                 "free": "❌",
                 "paid": "✅",
-                "title": "Quiz IA"
+                "title": "Exercices pratiques IA"
             },
             "hi": {
                 "free": "❌",
                 "paid": "✅",
-                "title": "AI क्विज़"
+                "title": "AI अभ्यास प्रश्न"
             },
             "es": {
                 "free": "❌",
                 "paid": "✅",
-                "title": "Cuestionarios con IA"
+                "title": "Ejercicios prácticos con IA"
             },
             "pt": {
                 "free": "❌",
                 "paid": "✅",
-                "title": "Questionários com IA"
+                "title": "Exercícios práticos com IA"
             },
             "ar": {
                 "free": "❌",
                 "paid": "✅",
-                "title": "اختبارات الذكاء الاصطناعي"
+                "title": "أسئلة تدريبية بالذكاء الاصطناعي"
             },
             "ru": {
                 "free": "❌",
                 "paid": "✅",
-                "title": "Тесты с ИИ"
+                "title": "Практические задания с ИИ"
             },
             "ko": {
                 "free": "❌",
                 "paid": "✅",
-                "title": "AI 퀴즈"
+                "title": "AI 연습 문제"
             }
         },
         {
             "en": {
                 "free": "❌",
                 "paid": "✅",
-                "title": "AI Contextual Search"
+                "title": "Contextual Word Lookup"
             },
             "zh": {
                 "free": "❌",
@@ -382,7 +382,7 @@
             "ja": {
                 "free": "❌",
                 "paid": "✅",
-                "title": "AI文脈検索"
+                "title": "文脈に応じた単語検索"
             },
             "zh-Hant": {
                 "free": "❌",
@@ -392,44 +392,44 @@
             "fr": {
                 "free": "❌",
                 "paid": "✅",
-                "title": "Recherche contextuelle IA"
+                "title": "Recherche de mots en contexte"
             },
             "hi": {
                 "free": "❌",
                 "paid": "✅",
-                "title": "AI संदर्भ खोज"
+                "title": "संदर्भ आधारित शब्द खोज"
             },
             "es": {
                 "free": "❌",
                 "paid": "✅",
-                "title": "Búsqueda contextual con IA"
+                "title": "Búsqueda de palabras según contexto"
             },
             "pt": {
                 "free": "❌",
                 "paid": "✅",
-                "title": "Pesquisa contextual com IA"
+                "title": "Busca de palavras em contexto"
             },
             "ar": {
                 "free": "❌",
                 "paid": "✅",
-                "title": "البحث السياقي بالذكاء الاصطناعي"
+                "title": "بحث عن الكلمات حسب السياق"
             },
             "ru": {
                 "free": "❌",
                 "paid": "✅",
-                "title": "Контекстный поиск с ИИ"
+                "title": "Контекстный поиск слов"
             },
             "ko": {
                 "free": "❌",
                 "paid": "✅",
-                "title": "AI 문맥 검색"
+                "title": "문맥 기반 단어 검색"
             }
         },
         {
             "en": {
                 "free": "❌",
                 "paid": "✅",
-                "title": "Future AI Features"
+                "title": "All Future AI Features"
             },
             "zh": {
                 "free": "❌",
@@ -439,7 +439,7 @@
             "ja": {
                 "free": "❌",
                 "paid": "✅",
-                "title": "将来のAI機能"
+                "title": "今後のすべてのAI機能"
             },
             "zh-Hant": {
                 "free": "❌",
@@ -449,37 +449,37 @@
             "fr": {
                 "free": "❌",
                 "paid": "✅",
-                "title": "Fonctionnalités IA futures"
+                "title": "Toutes les futures fonctions IA"
             },
             "hi": {
                 "free": "❌",
                 "paid": "✅",
-                "title": "भविष्य की AI सुविधाएँ"
+                "title": "आगामी सभी AI सुविधाएँ"
             },
             "es": {
                 "free": "❌",
                 "paid": "✅",
-                "title": "Funciones IA futuras"
+                "title": "Todas las funciones de IA futuras"
             },
             "pt": {
                 "free": "❌",
                 "paid": "✅",
-                "title": "Futuras funcionalidades com IA"
+                "title": "Todas as futuras funcionalidades de IA"
             },
             "ar": {
                 "free": "❌",
                 "paid": "✅",
-                "title": "الميزات المستقبلية للذكاء الاصطناعي"
+                "title": "جميع ميزات الذكاء الاصطناعي القادمة"
             },
             "ru": {
                 "free": "❌",
                 "paid": "✅",
-                "title": "Будущие функции ИИ"
+                "title": "Все будущие функции ИИ"
             },
             "ko": {
                 "free": "❌",
                 "paid": "✅",
-                "title": "향후 AI 기능"
+                "title": "향후 모든 AI 기능"
             }
         }
     ],
