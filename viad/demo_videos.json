@@ -1,6 +1,12 @@
 {
   "demo_videos": [
     {
+      "model": "Wan 2.5",
+      "url": "https://amzn-s3-visio-core-demo-videos.s3.us-east-1.amazonaws.com/wan2.5_1.mp4",
+      "prompt": "A cute anime girl wearing cool summer clothes making a cute gesture toward the camera.",
+      "attributes": ["🔥Hot", "New Model", "1080p"]
+    },
+    {
       "model": "Sora 2",
       "url": "https://amzn-s3-visio-core-demo-videos.s3.us-east-1.amazonaws.com/sora2_1.mp4",
       "prompt": "An outdoor home security camera captures a 300-pound pizza delivery man walking up a wooden staircase to the front porch to deliver a pizza. As he knocks on the door, the wooden platform suddenly collapses under his weight, and he falls into the debris below. From the rubble, he calls out to the homeowner, \"Here's your pizza!\"",
